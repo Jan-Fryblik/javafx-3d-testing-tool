@@ -1,4 +1,4 @@
-package sample;
+package cz.ebrothers.fx3dtestingtool;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

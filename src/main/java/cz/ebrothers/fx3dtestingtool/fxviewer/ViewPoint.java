@@ -1,4 +1,4 @@
-package sample.fxviewer;
+package cz.ebrothers.fx3dtestingtool.fxviewer;
 
 public enum ViewPoint {
 	

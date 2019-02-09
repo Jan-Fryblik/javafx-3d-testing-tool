@@ -1,4 +1,4 @@
-package sample.fxviewer;
+package cz.ebrothers.fx3dtestingtool.fxviewer;
 
 import javafx.beans.property.BooleanProperty;
 import javafx.beans.property.ObjectProperty;

@@ -1,4 +1,4 @@
-package sample.utils;
+package cz.ebrothers.fx3dtestingtool.utils;
 
 import javafx.collections.ObservableList;
 import javafx.scene.Node;

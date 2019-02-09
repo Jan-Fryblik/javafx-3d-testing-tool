@@ -5,9 +5,9 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.layout.VBox?>
-<?import sample.fxviewer.EditViewer?>
+<?import cz.ebrothers.fx3dtestingtool.fxviewer.EditViewer?>
 <StackPane fx:id="rootLayout" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.121"
-           fx:controller="sample.Controller" minHeight="800" minWidth="1600">
+           fx:controller="cz.ebrothers.fx3dtestingtool.Controller" minHeight="800" minWidth="1600">
 
     <VBox>
         <ToolBar fx:id="toolbar">

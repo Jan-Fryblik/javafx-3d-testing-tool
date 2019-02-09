@@ -1,4 +1,4 @@
-package sample.utils;
+package cz.ebrothers.fx3dtestingtool.utils;
 
 import com.google.common.base.Preconditions;
 import javafx.collections.ObservableFloatArray;

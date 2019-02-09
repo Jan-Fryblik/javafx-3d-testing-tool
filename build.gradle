@@ -19,7 +19,7 @@ buildscript {
 apply plugin: "javafx-gradle-plugin"
 
 
-mainClassName='sample.Main'
+mainClassName='cz.ebrothers.fx3dtestingtool.Main'
 
 repositories {
     mavenCentral()
@@ -62,7 +62,7 @@ jfx {
     jfxMainAppJarName = "sample.jar"
 
     // minimal requirement for jfxJar-task
-    mainClass = 'sample.Main'
+    mainClass = 'cz.ebrothers.fx3dtestingtool.Main'
 
     vendor = vendor
 }
