@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import sample.fxviewer.EditViewer?>
+<StackPane fx:id="rootLayout" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.121"
+           fx:controller="sample.Controller" minHeight="800" minWidth="1600">
+
+    <VBox>
+        <ToolBar fx:id="toolbar">
+            <Button text="Test" onAction="#testAction"/>
+        </ToolBar>
+        <HBox fx:id="layout" VBox.vgrow="ALWAYS">
+
+        </HBox>
+    </VBox>
+</StackPane>
+
